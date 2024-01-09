@@ -3,6 +3,8 @@
 
 2. Extract to somewhere
 
-3. Run it from the packaged python on windows like so - just change the last argument to the folder that has your anime and subs in them `"V:\Videos\anime\series"`:
+3. Put your subs in the same folder as the anime
+
+4. Run it from the packaged python on windows like so - just change the last argument to the folder that has your anime and subs in them `"V:\Videos\anime\series"`:
 
 `V:\Videos\auto-sub-retimer\Python\python.exe "V:\Videos\auto-sub-retimer\subsync.py" "V:\Videos\anime\series"`
